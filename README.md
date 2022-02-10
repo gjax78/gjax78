@@ -37,6 +37,5 @@ console.log("Hello, World! I'm Geena."); <br>
 <p>
   <img src="https://img.shields.io/badge/OOP%20-445c36.svg?&style=for-the-badge&logo=OOP&logoColor=white" />
   <img src="https://img.shields.io/badge/TDD%20-9cb38f.svg?&style=for-the-badge&logo=TDD&logoColor=white" />
-  <img src="https://img.shields.io/badge/MVC%20-445c36.svg?&style=for-the-badge&logo=MVC&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20-6e8561.svg?&style=for-the-badge&logo=REST&logoColor=white" />
 </p>
