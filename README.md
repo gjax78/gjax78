@@ -1,9 +1,9 @@
 <sup>
 <h1 align='center'>
 console.log("Hello, World! I'm Geena.");
-<h3 align='center'>
+<h2 align='center'>
 I love all things travel, film, and technology.
-</h3>
+</h2>
 <br>
 
 <p align='center'>
